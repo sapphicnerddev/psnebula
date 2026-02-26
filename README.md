@@ -20,7 +20,7 @@ The PSP still has a thriving homebrew scene, and hardware that holds up well. Wh
 ## Installation
 
 > [!NOTE]
-> Installation and setup is not tested on non ARK CFW devices, or on non PSP-3000 units.
+> Installation and setup is only tested with my personal PSP 3001 with ARK-4 on Firmware 6.61. All other firmwares, CFW types and models are **not tested!**
 
 ### Pre-built
 
@@ -28,7 +28,9 @@ The PSP still has a thriving homebrew scene, and hardware that holds up well. Wh
 
 ### From Source
 
-*Setup and build documentation coming soon.*
+Before building this project, you will need the [PSPSDK](https://pspdev.github.io/) installed on your machine.
+
+> There will be instructions here once we have stable code...
 
 ## License
 
