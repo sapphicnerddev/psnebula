@@ -12,10 +12,11 @@ The PSP still has a thriving homebrew scene, and hardware that holds up well. Wh
 ## Goals
 
 - A flat, minimal VSH replacement that feels at home on the PSP's original display
-- A small set of kernel modules that handle system-level enhancements
-- Simple installation: drop in some binaries, update `plugins.txt`, done
+- A small set of kernel modules that handle system-level enhancements and general QoL
+- Simple installation: drop in some binaries, update configuration, donw
 - ARK-4 on 6.61 as the primary supported CFW
 - Keep scope honest... this is not a full custom firmware, and doesn't aim to be.
+    * Completely custom CFW is outside my pay grade..
 
 ## Installation
 
