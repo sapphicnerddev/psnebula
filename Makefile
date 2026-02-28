@@ -138,4 +138,4 @@ clean:
 	@echo ">>> Clean done"
 
 install: all
-  @echo ">>> Install is not working at this time, please copy over manually."
+	@echo ">>> Install is not working at this time, please copy over manually."
